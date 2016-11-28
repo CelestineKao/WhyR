@@ -10,7 +10,7 @@ Source: http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=00014g
 Data from: http://www.wrh.noaa.gov/climate/monthdisp.php?stn=KLAX&p=temperature&mon=1&wfo=lox&year=2011
 
 ### Some things to include/change 
-* Precipitation y-axis, unit inches.
+* Precipitation y-axis: unit inches, align top with tick label.
 * Precipitation notations.
 * Legend.
 * Temperature & Precipitation comments.
