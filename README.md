@@ -15,6 +15,7 @@ Step 2: Find faults, keep improving.
 * Precipitation y = 4 line missing. 
 * Precipitation notations.
 * Halve margin between top and bottom graphs.
+* Margins. Line Spacing. Spacing.
 * Legend.
 * Temperature & Precipitation comments.
 * Code is a mess and not generalized. <-- Must fix. 
