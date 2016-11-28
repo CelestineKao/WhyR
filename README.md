@@ -14,6 +14,7 @@ Data from: http://www.wrh.noaa.gov/climate/monthdisp.php?stn=KLAX&p=temperature&
 * Legend.
 * Temperature & Precipitation comments.
 * Code is a mess and not generalized. <-- Must fix. 
+* Add comments.
 
 
 
