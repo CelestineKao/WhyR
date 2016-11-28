@@ -1,5 +1,6 @@
 # WhyR
-How to learn R. Make a graph. 
+How to learn R.  
+Step 1: Make a graph. 
 
 
 ![New York City Weather in 2003 - Source: New York Time January 4, 2004](https://github.com/0Celestine/WhyR/blob/master/images/New%20York%20City's%20Weather%20in%202003%20-%20NYT.jpg)  
